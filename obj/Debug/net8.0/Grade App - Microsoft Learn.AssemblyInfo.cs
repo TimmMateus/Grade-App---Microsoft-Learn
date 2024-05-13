@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grade App - Microsoft Learn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca3492320d11e9a003e25754a37be45329c8b42e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grade App - Microsoft Learn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grade App - Microsoft Learn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
