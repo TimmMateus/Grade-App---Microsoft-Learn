@@ -1,0 +1,14 @@
+c:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\bin\Debug\net8.0\Grade App - Microsoft Learn.exe
+C:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\bin\Debug\net8.0\Grade App - Microsoft Learn.deps.json
+C:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\bin\Debug\net8.0\Grade App - Microsoft Learn.runtimeconfig.json
+c:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\bin\Debug\net8.0\Grade App - Microsoft Learn.dll
+c:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\bin\Debug\net8.0\Grade App - Microsoft Learn.pdb
+c:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\obj\Debug\net8.0\Grade App - Microsoft Learn.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\obj\Debug\net8.0\Grade App - Microsoft Learn.AssemblyInfoInputs.cache
+c:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\obj\Debug\net8.0\Grade App - Microsoft Learn.AssemblyInfo.cs
+c:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\obj\Debug\net8.0\Grade App - Microsoft Learn.csproj.CoreCompileInputs.cache
+c:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\obj\Debug\net8.0\Grade App - Microsoft Learn.dll
+c:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\obj\Debug\net8.0\refint\Grade App - Microsoft Learn.dll
+c:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\obj\Debug\net8.0\Grade App - Microsoft Learn.pdb
+C:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\obj\Debug\net8.0\Grade App - Microsoft Learn.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Programing\C#\Grade App - Microsoft Learn\obj\Debug\net8.0\ref\Grade App - Microsoft Learn.dll
